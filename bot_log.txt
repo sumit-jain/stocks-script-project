@@ -1,0 +1,170 @@
+nohup: ignoring input
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 10, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+/root/qqq-trading/dynamic_trend_bot.py:138: RuntimeWarning: invalid value encountered in scalar divide
+  volume_strength = latest["volume"] / df["volume"].tail(50).mean()
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/tqqq_trade_bot.py", line 3, in <module>
+    import yfinance as yf
+ModuleNotFoundError: No module named 'yfinance'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/dynamic_trend_bot.py", line 3, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'

@@ -1,0 +1,66 @@
+Traceback (most recent call last):
+  File "/root/qqq-trading/update_tqqq_data.py", line 47, in <module>
+    update_csv()
+    ~~~~~~~~~~^^
+  File "/root/qqq-trading/update_tqqq_data.py", line 35, in update_csv
+    latest = get_latest_tradier_data()
+  File "/root/qqq-trading/update_tqqq_data.py", line 18, in get_latest_tradier_data
+    response = requests.get(url, headers=headers, params=params)
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/sessions.py", line 484, in prepare_request
+    p.prepare(
+    ~~~~~~~~~^
+        method=request.method.upper(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<10 lines>...
+        hooks=merge_hooks(request.hooks, self.hooks),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/models.py", line 367, in prepare
+    self.prepare_url(url, params)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/models.py", line 438, in prepare_url
+    raise MissingSchema(
+    ...<2 lines>...
+    )
+requests.exceptions.MissingSchema: Invalid URL 'None/markets/history': No scheme supplied. Perhaps you meant https://None/markets/history?
+Traceback (most recent call last):
+  File "/root/qqq-trading/update_tqqq_data.py", line 47, in <module>
+    update_csv()
+    ~~~~~~~~~~^^
+  File "/root/qqq-trading/update_tqqq_data.py", line 35, in update_csv
+    latest = get_latest_tradier_data()
+  File "/root/qqq-trading/update_tqqq_data.py", line 18, in get_latest_tradier_data
+    response = requests.get(url, headers=headers, params=params)
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/sessions.py", line 484, in prepare_request
+    p.prepare(
+    ~~~~~~~~~^
+        method=request.method.upper(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<10 lines>...
+        hooks=merge_hooks(request.hooks, self.hooks),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/models.py", line 367, in prepare
+    self.prepare_url(url, params)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/requests/models.py", line 438, in prepare_url
+    raise MissingSchema(
+    ...<2 lines>...
+    )
+requests.exceptions.MissingSchema: Invalid URL 'None/markets/history': No scheme supplied. Perhaps you meant https://None/markets/history?

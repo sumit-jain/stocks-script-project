@@ -1,0 +1,1596 @@
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/root/qqq-trading/qqq_intraday_tracker.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'

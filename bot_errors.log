@@ -1,0 +1,13 @@
+ERROR:root:Polling loop error: 'NoneType' object has no attribute 'get'
+ERROR:root:Polling loop error: 'NoneType' object has no attribute 'get'
+ERROR:root:Polling loop error: 'NoneType' object has no attribute 'get'
+ERROR:root:Polling loop error: 'NoneType' object has no attribute 'get'
+ERROR:root:Polling loop error: 'NoneType' object has no attribute 'get'
+ERROR:root:Polling loop error: 'NoneType' object has no attribute 'get'
+ERROR:root:Polling loop error: 'NoneType' object has no attribute 'get'
+ERROR:root:Chart generation failed: [Errno 2] No such file or directory: '/root/qqq-trading/charts/AMZN_chart.png'
+ERROR:root:Chart generation failed: [Errno 2] No such file or directory: '/root/qqq-trading/charts/AMZN_chart.png'
+ERROR:root:Chart generation failed: [Errno 2] No such file or directory: '/root/qqq-trading/charts/AMZN_chart.png'
+ERROR:root:Polling loop error: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Polling loop error: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Polling loop error: Expecting value: line 1 column 1 (char 0)

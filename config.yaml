@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    sumit:
+      email: sumit_jain@live.com
+      name: sumit
+      password: '$2b$12$34fWSWXrRx3YnabN9BdScuaCLuGxkuRFqUhpJRtZTBCqmrLyjR502'
+
+cookie:
+  expiry_days: 30
+  key: 'streamlit_auth'
+  name: 'qqq_dashboard_cookie'
+

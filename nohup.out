@@ -1,0 +1,1202 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://167.172.230.195:8501
+  External URL: http://167.172.230.195:8501
+
+2025-10-25 13:37:06.003 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 14, in <module>
+    hashed_passwords = stauth.Hasher(passwords).generate()
+                       ~~~~~~~~~~~~~^^^^^^^^^^^
+TypeError: Hasher.__init__() takes 1 positional argument but 2 were given
+2025-10-25 13:38:10.833 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 14, in <module>
+    hashed_passwords = stauth.Hasher(passwords).generate()
+                       ~~~~~~~~~~~~~^^^^^^^^^^^
+TypeError: Hasher.__init__() takes 1 positional argument but 2 were given
+2025-10-25 13:40:51.300 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 14, in <module>
+    hashed_passwords = stauth.Hasher(passwords).generate()
+                       ~~~~~~~~~~~~~^^^^^^^^^^^
+TypeError: Hasher.__init__() takes 1 positional argument but 2 were given
+2025-10-25 13:59:04.867 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 12, in <module>
+    authenticator = stauth.Authenticate(
+        names=['Sumit'],
+    ...<4 lines>...
+        cookie_expiry_days=30
+    )
+TypeError: Authenticate.__init__() missing 1 required positional argument: 'credentials'
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-25 14:00:11.558 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-25 14:04:48.678 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-25 14:11:09.041 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-25 14:13:47.771 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-25 14:32:46.206 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-25 15:39:42.625 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+2025-10-25 15:40:45.764 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-25 16:43:01.901 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-25 16:43:11.110 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-10-25 16:46:51.539 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login("Login", "main")
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit_authenticator/views/authentication_view.py", line 329, in login
+    raise ValueError("Location must be one of 'main' or 'sidebar' or 'unrendered'")
+ValueError: Location must be one of 'main' or 'sidebar' or 'unrendered'
+2025-10-25 16:46:52.290 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login("Login", "main")
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit_authenticator/views/authentication_view.py", line 329, in login
+    raise ValueError("Location must be one of 'main' or 'sidebar' or 'unrendered'")
+ValueError: Location must be one of 'main' or 'sidebar' or 'unrendered'
+2025-10-25 16:48:42.879 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login("Login", location="main")
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Authenticate.login() got multiple values for argument 'location'
+2025-10-25 16:48:43.483 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login("Login", location="main")
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Authenticate.login() got multiple values for argument 'location'
+2025-10-25 16:49:33.592 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login("Login", "main")
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit_authenticator/views/authentication_view.py", line 329, in login
+    raise ValueError("Location must be one of 'main' or 'sidebar' or 'unrendered'")
+ValueError: Location must be one of 'main' or 'sidebar' or 'unrendered'
+2025-10-25 16:49:34.175 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login("Login", "main")
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit_authenticator/views/authentication_view.py", line 329, in login
+    raise ValueError("Location must be one of 'main' or 'sidebar' or 'unrendered'")
+ValueError: Location must be one of 'main' or 'sidebar' or 'unrendered'
+2025-10-25 16:50:09.810 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login(form_name="Login", location="main")
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Authenticate.login() got an unexpected keyword argument 'form_name'
+2025-10-25 16:50:10.419 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login(form_name="Login", location="main")
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Authenticate.login() got an unexpected keyword argument 'form_name'
+2025-10-25 16:51:24.443 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login('Login', 'main')
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit_authenticator/views/authentication_view.py", line 329, in login
+    raise ValueError("Location must be one of 'main' or 'sidebar' or 'unrendered'")
+ValueError: Location must be one of 'main' or 'sidebar' or 'unrendered'
+2025-10-25 16:51:25.020 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login('Login', 'main')
+                                            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit_authenticator/views/authentication_view.py", line 329, in login
+    raise ValueError("Location must be one of 'main' or 'sidebar' or 'unrendered'")
+ValueError: Location must be one of 'main' or 'sidebar' or 'unrendered'
+2025-10-25 16:52:08.154 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login('main', 'Login')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+2025-10-25 16:53:37.676 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 32, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 16:54:40.452 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login('main', 'Login')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+2025-10-25 16:54:52.007 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login('main', 'Login')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+2025-10-25 16:54:52.282 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login('main', 'Login')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+2025-10-25 16:54:52.463 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 29, in <module>
+    name, authentication_status, username = authenticator.login('main', 'Login')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+2025-10-25 17:45:15.853 Script compilation error
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.13/ast.py", line 54, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 293
+    elif authentication_status is None:
+                                       ^
+IndentationError: unindent does not match any outer indentation level
+2025-10-25 17:45:15.858 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-10-25 17:47:48.621 Script compilation error
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.13/ast.py", line 54, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 291
+    elif authentication_status is False:
+    ^^^^
+SyntaxError: invalid syntax
+2025-10-25 17:47:48.623 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-10-25 17:50:48.597 Script compilation error
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.13/ast.py", line 54, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 291
+    elif authentication_status is False:
+    ^^^^
+SyntaxError: invalid syntax
+2025-10-25 17:50:48.600 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-10-25 17:53:03.884 Script compilation error
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.13/ast.py", line 54, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 277
+    st.title("📈 EMA(20)/SMA(40) Strategy Simulator")
+IndentationError: unexpected indent
+2025-10-25 17:53:03.886 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-10-25 17:54:02.785 Script compilation error
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.13/ast.py", line 54, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 282
+    if ticker:
+IndentationError: unexpected indent
+2025-10-25 17:54:02.787 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-10-25 17:55:02.989 Script compilation error
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.13/ast.py", line 54, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 282
+    if ticker:
+IndentationError: unexpected indent
+2025-10-25 17:55:02.992 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-10-25 17:55:56.930 Script compilation error
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.13/ast.py", line 54, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 291
+    elif authentication_status is False:
+    ^^^^
+SyntaxError: invalid syntax
+2025-10-25 17:55:56.932 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-10-25 17:56:18.894 Script compilation error
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.13/ast.py", line 54, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 291
+    elif authentication_status is False:
+    ^^^^
+SyntaxError: invalid syntax
+2025-10-25 17:56:18.900 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-10-25 18:07:46.784 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 18:08:24.943 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 18:08:25.450 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 18:08:25.948 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 19:52:50.352 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 20:11:15.316 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 21:10:30.053 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 21:10:30.215 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 23:12:44.428 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 23:12:44.564 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-25 23:13:02.362 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 00:13:51.828 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 00:13:52.505 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 00:13:55.812 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 01:15:00.509 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 01:15:00.510 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 01:15:00.658 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 01:51:47.290 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 01:51:47.580 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 01:51:47.720 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 37, in <module>
+    if authenticator.authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Authenticate' object has no attribute 'authentication_status'
+2025-10-26 02:20:45.147 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+2025-10-26 02:20:45.148 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+2025-10-26 02:20:46.090 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+2025-10-26 06:21:59.899 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+2025-10-26 06:23:52.252 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+2025-10-26 06:23:52.256 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+2025-10-26 06:23:52.388 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+2025-10-26 09:13:00.310 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+2025-10-26 09:13:00.506 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+2025-10-26 09:13:00.513 Uncaught app execution
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 128, in exec_func_with_error_handling
+    result = func()
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 669, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/qqq-trading/streamlit_strategy_dashboard.py", line 36, in <module>
+    if authentication_status:
+       ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'authentication_status' is not defined
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-26 12:09:45.497 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+2025-10-26 12:20:08.586 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+2025-10-26 12:22:29.590 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+2025-10-26 13:49:11.090 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+2025-10-26 13:49:16.328 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+2025-10-26 13:50:15.112 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+2025-10-26 14:10:09.458 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 15:09:27.247 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 15:19:52.970 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 15:22:02.885 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 15:24:55.183 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 15:26:25.513 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 15:27:00.771 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 15:27:17.272 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 15:30:12.506 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 15:30:12.828 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 16:31:13.380 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 16:31:27.241 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 16:31:43.277 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 16:32:24.489 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 16:32:57.013 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 17:31:15.011 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 17:41:20.744 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 17:41:28.656 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 19:12:44.959 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 19:12:54.206 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 21:24:47.485 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 21:44:36.349 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 21:52:18.807 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:02:23.364 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:02:34.232 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:17:55.732 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:18:01.010 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:18:58.616 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:19:05.384 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ETH6"}}}
+[*********************100%***********************]  1 of 1 completed
+
+1 Failed download:
+['ETH6']: YFTzMissingError('possibly delisted; no timezone found')
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:19:32.560 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:19:36.996 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:23:08.245 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ASKS"}}}
+[*********************100%***********************]  1 of 1 completed
+
+1 Failed download:
+['ASKS']: YFTzMissingError('possibly delisted; no timezone found')
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:23:11.173 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+
+1 Failed download:
+['ASKS']: YFTzMissingError('possibly delisted; no timezone found')
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:23:16.578 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+
+1 Failed download:
+['ASKS']: YFTzMissingError('possibly delisted; no timezone found')
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:23:23.357 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 22:23:34.658 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-10-26 22:38:09.906 MediaFileHandler: Missing file filemanager/dialog.php
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/memory_media_file_storage.py", line 140, in get_file
+    return self._files_by_id[file_id]
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: 'filemanager/dialog'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/web/server/media_file_handler.py", line 95, in validate_absolute_path
+    self._storage.get_file(absolute_path)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/root/qqqenv/lib/python3.13/site-packages/streamlit/runtime/memory_media_file_storage.py", line 142, in get_file
+    raise MediaFileStorageError(
+        f"Bad filename '{filename}'. (No media file with id '{file_id}')"
+    ) from e
+streamlit.runtime.media_file_storage.MediaFileStorageError: Bad filename 'filemanager/dialog.php'. (No media file with id 'filemanager/dialog')
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+/root/qqq-trading/streamlit_strategy_dashboard.py:303: FutureWarning:
+
+Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-26 23:28:50.667 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
